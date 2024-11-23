@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-I am a full professor in the Software Engineering Institute at East China Normal University. I received the Ph.D. (2011) in the School of Electronic Information and Electrical Engineering at the Shanghai Jiaotong University; and B.S. (2004) in  at   University in  . Before joining  , I worked as an assistant professor at  (2014-2019) and as an academic visitor in the next generation middleware platforms department at IBM T. J. Watson Research Center (Fall 2013). I also interned in the operating systems group at Microsoft Research - Redmond (Summer 2012); and in the systems analysis and verification department at NEC Laboratories America (Summer 2011).  
+I am a full professor in the Software Engineering Institute at East China Normal University (ECNU). I received the Ph.D. (2011) in the School of Electronic Information and Electrical Engineering at the Shanghai Jiaotong University;  M.Eng. (2006) in the School of Engineering at Shantou University, and B.Eng. (2002) in the School of Automation at Chongqing University. Before joining ECNU, I worked as an Lecturer at Harbin Institute of Technology (2012-2017) and as a postdoc at Purdue University (2016-2017). I also visited the The Education University of Hong Kong under the support of Croucher Scholarship (2023-2024).  
 
 ### Research Areas:   (ABM Lab)
 
-I have a passion for designing systems and tools aimed at AI of mass adoption. I love working on solutions that cut across the .
+I enjoy creating impactful AI tools for mass adoption, focusing on RAG, video understanding, and AIDD, all with a fun and engaging approach.
 
 ### News
 
-I am actively looking for motivated PhD, MS, undergraduate students to work on   projects. Please refer to my Research page for sample projects.
-Sep. 2024: A paper on   is accepted by  2024. 
+I am actively looking for motivated PhD, MS, undergraduate students to work with us. Please refer to my Research page for sample projects.
+ 
