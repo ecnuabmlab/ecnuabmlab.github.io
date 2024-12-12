@@ -13,7 +13,7 @@ I am a full professor in the Software Engineering Institute at East China Normal
 
 ### Research Areas:   (ABM Lab)
 
-I am passionate about developing impactful AI tools for widespread adoption, with a focus on Retrieval-Augmented Generation (RAG), video understanding, and AI-driven drug discovery (AIDD), all delivered in a fun and engaging manner.
+I am passionate about creating impactful AI tools for widespread adoption, specializing in Retrieval-Augmented Generation (RAG), video understanding, intelligent manufacturing, and AI-driven drug discovery (AIDD), all presented in a fun and engaging way.
 
 ### News
 
