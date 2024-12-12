@@ -13,9 +13,9 @@ I am a full professor in the Software Engineering Institute at East China Normal
 
 ### Research Areas:   (ABM Lab)
 
-I enjoy creating impactful AI tools for mass adoption, focusing on RAG, video understanding, and AIDD, all with a fun and engaging approach.
+I enjoy creating impactful AI tools for mass adoption, focusing on RAG, video understanding, intelligent manufacturing and AIDD, all with a fun and engaging approach.
 
 ### News
 
-I am actively looking for motivated PhD, MS, undergraduate students to work with us. Please refer to my Research page for sample projects.
+I am actively looking for motivated PhD, MS, undergraduate students to work with us. Please refer to my Research page for projects.
  
