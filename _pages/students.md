@@ -11,13 +11,13 @@ redirect_from:
 
 ### Current Students
 <div style="display: flex; align-items: center;">
-    <p>Ph.D. Students</p>
+    <p>Ph.D. Students:</p>
     <p>Yu:  Photo</p>
     <p>Intro</p>
 </div>
 
 <div style="display: flex; align-items: center;">
-    <p>MS Students</p>
+    <p>MS Students:</p>
     <p>Junhao Wu:Photo</p>
     <p>Co-advised with Heqin Cheng.</p>
 </div>
