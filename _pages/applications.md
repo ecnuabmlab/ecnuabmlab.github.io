@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Heilongjiang Province
+% 1, Apply video understanding large language models (LLMs) in Heilongjiang Province in collaboration with Yuanqi Shengjing Company.
+
+% 2, 
