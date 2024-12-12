@@ -17,5 +17,5 @@ I am passionate about creating impactful AI tools for widespread adoption, speci
 
 ### News
 
-I am actively looking for motivated PhD, MS, undergraduate students to work with us. Please refer to my Research page for projects.
+I am actively looking for motivated PhD, MS, undergraduate students to work with us. 
  
