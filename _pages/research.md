@@ -9,13 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-I am actively seeking motivated PhD, MS, and undergraduate students who are interested in participating in research projects focusing on multi-modal LLM. Please find some sample projects below.
+I am actively seeking motivated PhD, MS, and undergraduate students who are interested in participating in research projects focusing on multi-modal LLM. Please find projects below.
 
-### Transpotation LLM
+### Video understanding for transportation
 * Goal:  
 * Recent Pubs:  
-* Funding:
+* Funding: from Yuanqi Shengjing, a startup.
 
-* Goal:  
-* Recent Pubs:
-* Funding:  
+ 
