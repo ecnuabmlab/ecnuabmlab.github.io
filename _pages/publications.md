@@ -8,3 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
+Please refers to:
+https://scholar.google.com/citations?user=NA633ZQAAAAJ&hl=zh-CN
+https://www.researchgate.net/profile/Xi-Chen-311
