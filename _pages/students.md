@@ -15,6 +15,13 @@ redirect_from:
     <p>Yu:  Photo</p>
     <p>Intro</p>
 </div>
+
+<div style="display: flex; align-items: center;">
+    <p>MS Students</p>
+    <p>Junhao Wu:Photo</p>
+    <p>Co-advised with Heqin Cheng.</p>
+</div>
+
 <div style="display: flex; align-items: center;">
     <p>MS Students</p>
     <p>Li Fan:Photo</p>
@@ -23,4 +30,5 @@ redirect_from:
 
 ### Former Students
 * MS students
-* Wanyue Jiang: 2022. Co-advised with  .  . First employment at  
+* Wanyue Jiang: 2022.  First employment at.
+*   
