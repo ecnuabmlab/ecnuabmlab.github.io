@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-### Star of the Year 2024
-Reasons for winning:
+### Star of the Year 2024: Li Fan
+
